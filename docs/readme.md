@@ -1,2 +1,1 @@
-Nhóm 10
-hảo hán
+# Nhóm 10 - Quản trị dự án công nghệ thông tin - Bài tập lớn
