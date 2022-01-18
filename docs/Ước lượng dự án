@@ -1,0 +1,21 @@
+1. Ước lượng thành viên
+    - Team BA: 3
+    - Team Dev: 4-5
+    - Team Test: 2
+
+2. Ước lượng thời gian
+    - Phân tích yêu cầu                                                         Sum: 1 tuần
+        + Xác định yêu cầu (các chức năng cơ bản, tích hợp hệ thống)
+        + Xác định yêu cầu kỹ thuật
+    - Thiết kế hệ thống                                                         Sum: 2 tuần
+        + Kiến trúc
+        + Giao diện
+        + Database
+        + Modules
+    - Cài đặt chương trình                                                      Sum: 1 tháng
+        + Cài đặt môi trường
+        + Lập trình (db, client, server,...)
+    - Kiểm thử                                                                  Sum: 7 ngày
+        + Testcase các tính năng
+    - Bàn Giao                                                                  Sum: 1 ngày
+        + Hướng dẫn người dùng cài đặt
