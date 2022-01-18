@@ -1,7 +1,7 @@
 # Nhóm 10 - Quản trị dự án công nghệ thông tin - Bài tập lớn
 
 #### Tên dự án: Microsoft teams apps remotesupport
-
+https://github.com/trianhvo/microsoft-teams-apps-remotesupport
 #### Các thành viên trong nhóm:
 
 - Võ Trí Anh - 20172176
@@ -19,3 +19,8 @@
 6. ƯỚC LƯỢNG CHẤT LƯỢNG
 7. ĐÓNG DỰ ÁN
 8. DANH MỤC TÀI LIỆU LIÊN QUAN
+
+#### Others
+1. Xem kết quả thống kê Doxygen:
+    - Truy cập docs/doxygen
+    - Chạy index.html trên trình duyệt web
