@@ -1,10 +1,10 @@
 1. Ước lượng thành viên
-    - Team BA: 3
-    - Team Dev: 4-5
-    - Team Test: 2
+    - Team BA: 1
+    - Team Dev: 2-3
+    - Team Test: 1
 
 2. Ước lượng thời gian
-    - Phân tích yêu cầu                                                         Sum: 1 tuần
+    - Phân tích yêu cầu                                                         Sum: 7 ngày
         + Xác định yêu cầu (các chức năng cơ bản, tích hợp hệ thống)
         + Xác định yêu cầu kỹ thuật
     - Thiết kế hệ thống                                                         Sum: 2 tuần
@@ -19,3 +19,8 @@
         + Testcase các tính năng
     - Bàn Giao                                                                  Sum: 1 ngày
         + Hướng dẫn người dùng cài đặt
+
+3. Ước lượng chi phí
+    - Phí duy trì: 3-5tr/tháng gồm storage, thuê Azure,...
+    - Phí rủi ro 15%
+    - Phí train team, thuê mặt bằng (nếu có)
