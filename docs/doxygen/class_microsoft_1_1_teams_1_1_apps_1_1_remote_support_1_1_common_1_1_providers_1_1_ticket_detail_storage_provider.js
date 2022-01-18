@@ -1,0 +1,6 @@
+var class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_ticket_detail_storage_provider =
+[
+    [ "TicketDetailStorageProvider", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_ticket_detail_storage_provider.html#aeb8e4fb158454ab34694260c29efb964", null ],
+    [ "GetTicketAsync", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_ticket_detail_storage_provider.html#a06eab702b4dd0ef44b7c88c2112b3ef0", null ],
+    [ "UpsertTicketAsync", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_ticket_detail_storage_provider.html#a997b03c48aefbb8c593c4ea9281b36c4", null ]
+];

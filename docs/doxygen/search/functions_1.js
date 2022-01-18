@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['cardconfigurationentity_0',['CardConfigurationEntity',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_card_configuration_entity.html#a4b50687051b1016324ae632aae9a00cc',1,'Microsoft::Teams::Apps::RemoteSupport::Common::Models::CardConfigurationEntity']]],
+  ['cardconfigurationstorageprovider_1',['CardConfigurationStorageProvider',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_card_configuration_storage_provider.html#a213c8327b8f83530d2901b30fd42f372',1,'Microsoft::Teams::Apps::RemoteSupport::Common::Providers::CardConfigurationStorageProvider']]],
+  ['configure_2',['Configure',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_configuration_1_1_startup.html#ae264dee2d5713aaec52cc39d1605725f',1,'Microsoft.Teams.Apps.RemoteSupport.Configuration.Startup.Configure()'],['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_startup.html#a31d9161cd31e08a0db3f59894c13a856',1,'Microsoft.Teams.Apps.RemoteSupport.Startup.Configure()']]],
+  ['configureservices_3',['ConfigureServices',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_configuration_1_1_startup.html#a33aaf7b07d2bc903711e4e2809891e8c',1,'Microsoft.Teams.Apps.RemoteSupport.Configuration.Startup.ConfigureServices()'],['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_startup.html#ae206455691ef4741dd8b208c85945426',1,'Microsoft.Teams.Apps.RemoteSupport.Startup.ConfigureServices()']]],
+  ['createwebhostbuilder_4',['CreateWebHostBuilder',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_configuration_1_1_program.html#accfe7dc5f0c2d29e86900379d1a0006d',1,'Microsoft::Teams::Apps::RemoteSupport::Configuration::Program']]]
+];

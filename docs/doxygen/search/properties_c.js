@@ -1,0 +1,11 @@
+var searchData=
+[
+  ['objectid_0',['ObjectId',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_on_call_s_m_e_detail.html#a32551d8bb82912a47826f4cac3e8b96f',1,'Microsoft::Teams::Apps::RemoteSupport::Common::Models::OnCallSMEDetail']]],
+  ['oncallexpertmentiontext_1',['OnCallExpertMentionText',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_strings.html#ace2e335b0c9236106f64afd5e1d80d1d',1,'Microsoft::Teams::Apps::RemoteSupport::Strings']]],
+  ['oncallexperts_2',['OnCallExperts',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_on_call_experts_detail.html#aa050fe485002f26d477157ea14cae3a3',1,'Microsoft::Teams::Apps::RemoteSupport::Common::Models::OnCallExpertsDetail']]],
+  ['oncalllistupdatemessage_3',['OnCallListUpdateMessage',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_strings.html#a1f487832f18311816ee25eef1d5a93be',1,'Microsoft::Teams::Apps::RemoteSupport::Strings']]],
+  ['oncallsmedetailcardtext_4',['OnCallSMEDetailCardText',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_strings.html#a7b034a9ca665a5e98fd24d92c1d80268',1,'Microsoft::Teams::Apps::RemoteSupport::Strings']]],
+  ['oncallsmes_5',['OnCallSMEs',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_on_call_support_detail.html#aacd8a10224618dee827bc04332f0da48',1,'Microsoft::Teams::Apps::RemoteSupport::Common::Models::OnCallSupportDetail']]],
+  ['oncallsupportcardactivityid_6',['OnCallSupportCardActivityId',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_on_call_experts_detail.html#a71e5bdfa1e6f1190956ebc866c728a63',1,'Microsoft::Teams::Apps::RemoteSupport::Common::Models::OnCallExpertsDetail']]],
+  ['oncallsupportid_7',['OnCallSupportId',['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_on_call_experts_detail.html#acdc1d4c9d2c57c446b587768e43163f5',1,'Microsoft.Teams.Apps.RemoteSupport.Common.Models.OnCallExpertsDetail.OnCallSupportId()'],['../class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_models_1_1_on_call_support_detail.html#acb750551152b60fac6dd86bd3e64347e',1,'Microsoft.Teams.Apps.RemoteSupport.Common.Models.OnCallSupportDetail.OnCallSupportId()']]]
+];

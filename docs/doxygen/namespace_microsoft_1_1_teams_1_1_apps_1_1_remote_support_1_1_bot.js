@@ -1,0 +1,5 @@
+var namespace_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot =
+[
+    [ "RemotesupportActivityMiddleWare", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remotesupport_activity_middle_ware.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remotesupport_activity_middle_ware" ],
+    [ "RemoteSupportAdapterWithErrorHandler", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remote_support_adapter_with_error_handler.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remote_support_adapter_with_error_handler" ]
+];

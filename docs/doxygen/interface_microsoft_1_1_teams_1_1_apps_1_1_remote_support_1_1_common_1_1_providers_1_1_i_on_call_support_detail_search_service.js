@@ -1,0 +1,4 @@
+var interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_on_call_support_detail_search_service =
+[
+    [ "SearchOnCallSupportTeamAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_on_call_support_detail_search_service.html#a7b40cf79ef27f71a58c779f4c062d3e8", null ]
+];

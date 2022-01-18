@@ -1,0 +1,5 @@
+var class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remotesupport_activity_middle_ware =
+[
+    [ "RemotesupportActivityMiddleWare", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remotesupport_activity_middle_ware.html#a9f9d5076b13c95eca173e71a4b48f776", null ],
+    [ "OnTurnAsync", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remotesupport_activity_middle_ware.html#abba17f9ac743f3b8b8284f1307bd9cac", null ]
+];

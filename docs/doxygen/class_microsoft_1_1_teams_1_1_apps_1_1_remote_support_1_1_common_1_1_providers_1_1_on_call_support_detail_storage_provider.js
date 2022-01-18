@@ -1,0 +1,6 @@
+var class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_storage_provider =
+[
+    [ "OnCallSupportDetailStorageProvider", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_storage_provider.html#a53c7ac31d935ead6f208adc880354d11", null ],
+    [ "GetOnCallSupportDetailAsync", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_storage_provider.html#a97510dc17dd087c08aab3ea4674eab75", null ],
+    [ "UpsertOnCallSupportDetailsAsync", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_storage_provider.html#afa6fa1033cffbe974fcb0efa3f391eb0", null ]
+];

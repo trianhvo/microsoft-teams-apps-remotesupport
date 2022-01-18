@@ -1,0 +1,8 @@
+var namespace_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models =
+[
+    [ "AdaptiveCardAction", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_adaptive_card_action.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_adaptive_card_action" ],
+    [ "AdaptiveChoiceSet", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_adaptive_choice_set.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_adaptive_choice_set" ],
+    [ "ErrorResponse", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_error_response.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_error_response" ],
+    [ "InputChoiceSet", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_input_choice_set.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_input_choice_set" ],
+    [ "JwtClaims", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_jwt_claims.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_models_1_1_jwt_claims" ]
+];

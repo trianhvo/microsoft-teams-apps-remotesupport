@@ -1,0 +1,4 @@
+var namespace_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_configuration_1_1_models =
+[
+    [ "AzureAdSettings", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_configuration_1_1_models_1_1_azure_ad_settings.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_configuration_1_1_models_1_1_azure_ad_settings" ]
+];

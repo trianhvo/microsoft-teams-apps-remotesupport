@@ -1,0 +1,4 @@
+var interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_ticket_search_service =
+[
+    [ "SearchTicketsAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_ticket_search_service.html#af5f3743a58259f00c81a40cd818bbfc3", null ]
+];

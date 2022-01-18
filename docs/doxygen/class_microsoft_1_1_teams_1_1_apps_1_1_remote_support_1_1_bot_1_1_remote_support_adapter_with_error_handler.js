@@ -1,0 +1,4 @@
+var class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remote_support_adapter_with_error_handler =
+[
+    [ "RemoteSupportAdapterWithErrorHandler", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_bot_1_1_remote_support_adapter_with_error_handler.html#a701ba746aef7643846f4e95a452b1c86", null ]
+];

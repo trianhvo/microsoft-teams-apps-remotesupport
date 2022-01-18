@@ -1,0 +1,5 @@
+var interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_on_call168126cfdaa4d7466ea77d59fe504ecf =
+[
+    [ "GetOnCallSupportDetailAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_on_call168126cfdaa4d7466ea77d59fe504ecf.html#a03aef2ed61065052753464e857e4410b", null ],
+    [ "UpsertOnCallSupportDetailsAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_on_call168126cfdaa4d7466ea77d59fe504ecf.html#a7b527d8a1ad38da53a40beec6dbb5b7f", null ]
+];

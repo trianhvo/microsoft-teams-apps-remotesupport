@@ -1,0 +1,6 @@
+var namespace_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers =
+[
+    [ "BaseRemoteSupportController", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers_1_1_base_remote_support_controller.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers_1_1_base_remote_support_controller" ],
+    [ "RemoteSupportController", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers_1_1_remote_support_controller.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers_1_1_remote_support_controller" ],
+    [ "ResourceController", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers_1_1_resource_controller.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_controllers_1_1_resource_controller" ]
+];

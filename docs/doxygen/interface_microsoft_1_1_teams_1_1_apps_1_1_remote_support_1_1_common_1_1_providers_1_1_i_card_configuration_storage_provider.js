@@ -1,0 +1,7 @@
+var interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_card_configuration_storage_provider =
+[
+    [ "GetCardItemElementMappingAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_card_configuration_storage_provider.html#a7c4c7d35ecdb06e66cbcf4e6cbb24962", null ],
+    [ "GetConfigurationAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_card_configuration_storage_provider.html#a004250a874bc6cecd4823e7b0c0bd00a", null ],
+    [ "GetConfigurationsByCardIdAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_card_configuration_storage_provider.html#a521204f7fcdafc748767a5096935bfd7", null ],
+    [ "StoreOrUpdateEntityAsync", "interface_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_i_card_configuration_storage_provider.html#a499537bbbdbed50ed9f71f898197b64c", null ]
+];

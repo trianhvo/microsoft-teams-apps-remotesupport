@@ -1,0 +1,7 @@
+var class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_search_service =
+[
+    [ "OnCallSupportDetailSearchService", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_search_service.html#a9a1a403d75fb6f49c90019f4fce7246a", null ],
+    [ "Dispose", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_search_service.html#a313aeab0d67431313e198acad1f55e11", null ],
+    [ "Dispose", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_search_service.html#a30dade77b3e3254eff7610c7cd90c403", null ],
+    [ "SearchOnCallSupportTeamAsync", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_common_1_1_providers_1_1_on_call_support_detail_search_service.html#a12fdb7113627f17e756bc2d925a18c4a", null ]
+];

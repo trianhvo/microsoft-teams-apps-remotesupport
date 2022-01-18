@@ -1,0 +1,4 @@
+var namespace_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_cards =
+[
+    [ "SmeTicketCard", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_cards_1_1_sme_ticket_card.html", "class_microsoft_1_1_teams_1_1_apps_1_1_remote_support_1_1_cards_1_1_sme_ticket_card" ]
+];
