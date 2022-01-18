@@ -10,7 +10,7 @@ namespace Microsoft.Teams.Apps.RemoteSupport.Common.Providers
     using Microsoft.Extensions.Options;
     using Microsoft.Teams.Apps.RemoteSupport.Common.Models;
     using Microsoft.WindowsAzure.Storage.Table;
-
+    
     /// <summary>
     /// On call support detail provider helps in fetching and storing information in storage table.
     /// </summary>
